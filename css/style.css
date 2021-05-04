@@ -9,8 +9,8 @@ body {
 }
 header img {
 float: left;
-margin-top: -30px;
-width: 400px;
+margin-top: -50px;
+width: 300px;
 }
 header {
     background-color:white;
@@ -26,12 +26,12 @@ nav ul {
 
 nav ul li {
     display: inline-block;
-    padding: 20px;
+    padding: 10x;
 margin-left: 50px;
 }
 nav ul li a {
     text-decoration: none;
-    font-size: 45px;
+    font-size: 30px;
     color: #393e46;
     font-weight: 600;
 }
@@ -52,7 +52,7 @@ width: 30%;
 height: 30%;
 padding: 30px 0;
  margin-top: 30px;
- margin-left: 90px;
+ margin-left: 70px;
  }
 main section :last-child {
 float: right;
@@ -75,18 +75,18 @@ main article h2 {
     float: right;
     width: 50%;
     text-align: center;
-    font-size: 60px;
+    font-size: 40px;
     margin-top: 30px;
     margin-bottom: 20px;
 }
 main article p {
     overflow: hidden;
-    height:500px;
+    height:340px;
     width:40%;
     overflow: scroll;
     text-align: left;
-    font-size: 30px;
-    margin-left:1000px;
+    font-size: 20px;
+    margin-left:700px;
 }
 button {
     font-size: 25px;
@@ -95,7 +95,7 @@ button {
     color: white;
     background: rgb(128, 125, 125);
     border-radius: 10px;
-    margin-top: 90px;
+    margin-top: 50px;
     margin-left: 100px;
 }
 
